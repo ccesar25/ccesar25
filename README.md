@@ -5,7 +5,7 @@
 - 🌱 Interests: Mathematics, Algebra, Computer Science, Statistics and Turing complete machines.
 - 💬 Ask me about: Anything in these areas.
 - 📫 How to reach me: 
-- Discord: Kaiser#9888
+- Discord: Kaiser#8999
 - e-mail: ccezarx@gmail.com
 - ⚡ Fun fact: English, Portuguese and Spanish speaker.
 - Mathematics and technology student/enthusiast.
