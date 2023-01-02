@@ -1,6 +1,6 @@
 ### Hi there, I'm Caio Cesar 🤘
 
-
+- :godmode:
 - 🔭 I’m currently working on C/C++, Fortran, Python, Java, HTML/CSS (sometimes)
 - 🌱 Interests: Mathematics, Algebra, Computer Science, Statistics and Turing complete machines.
 - 💬 Ask me about: Anything in these areas.
