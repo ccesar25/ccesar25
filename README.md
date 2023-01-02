@@ -8,4 +8,5 @@
 - Discord: Kaiser#9888
 - e-mail: ccezarx@gmail.com
 - ⚡ Fun fact: English, Portuguese and Spanish speaker.
--
+- Mathematics and technology student/enthusiast.
+- 
