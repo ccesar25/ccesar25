@@ -1,4 +1,4 @@
-### Hi there, I'm Caio Cesar :electron:
+### Hi there, I'm Caio Cesar 🤘
 
 
 - 🔭 I’m currently working on C/C++, Fortran, Python, Java, HTML/CSS (sometimes)
@@ -8,5 +8,5 @@
 -   * Discord: Kaiser#8999
 -   * e-mail: ccezarx@gmail.com
 - ⚡ Fun fact: English, Portuguese and Spanish speaker. :brazil: :us: :argentina:
-- :triangular_flag_on_post: Mathematics and technology student/enthusiast.
-- 
+- :electron: Mathematics and technology student/enthusiast.
+- :triangular_flag_on_post: 
