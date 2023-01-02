@@ -9,4 +9,4 @@
 -   * e-mail: ccezarx@gmail.com
 - ⚡ Fun fact: English, Portuguese and Spanish speaker. :brazil: :us: :argentina:
 - :electron: Mathematics and technology student/enthusiast.
-- :triangular_flag_on_post: 
+- :triangular_flag_on_post: Lorem Ipsum
